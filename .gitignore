@@ -5,3 +5,6 @@ neg.txt
 *.csv
 *.zip
 *.pickle
+model.ckpt*
+checkpoint
+tf.log
